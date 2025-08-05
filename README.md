@@ -9,32 +9,32 @@
 
 ---
 
-## 🚀 What is it?
+## what is it?
 
 `live-dev-inspector` is a CLI + (optional) web dashboard tool that helps developers **audit their local dev environment** for potential risks like:
 
-- 🔐 Exposed secrets in `.env` files  
-- 🌐 Weak CORS configurations  
-- 🎧 Open ports and running services  
-- 🧠 Forgotten debug settings or dangerous environment variables  
-- 📄 Auto-generated security report (Markdown/HTML)
+- Exposed secrets in `.env` files  
+- Weak CORS configurations  
+- Open ports and running services  
+- Forgotten debug settings or dangerous environment variables  
+- Auto-generated security report (Markdown/HTML)
 
 ---
 
-## ✨ Planned Features
+## planned features
 
 | Feature                    | Description                                       | Status       |
 |---------------------------|---------------------------------------------------|--------------|
-| `.env` secret scanner     | Detect common secrets or sensitive keys           | 🔜 In progress |
-| Port checker              | Find open ports & listening services              | 🔜 Planned     |
-| CORS misconfig detector   | Warn if CORS headers allow `*`                    | 🔜 Planned     |
-| Process analyzer          | Show active local dev processes (e.g., Node)      | 🔜 Planned     |
-| Report generation         | Save results as Markdown or HTML                  | 🔜 Planned     |
-| Optional web dashboard    | Live view of findings via Express/WebSocket UI    | 🔜 Planned     |
+| `.env` secret scanner     | Detect common secrets or sensitive keys           | In progress |
+| Port checker              | Find open ports & listening services              | Planned     |
+| CORS misconfig detector   | Warn if CORS headers allow `*`                    | Planned     |
+| Process analyzer          | Show active local dev processes (e.g., Node)      | Planned     |
+| Report generation         | Save results as Markdown or HTML                  | Planned     |
+| Optional web dashboard    | Live view of findings via Express/WebSocket UI    | Planned     |
 
 ---
 
-## 📦 Installation (Coming Soon)
+## installation (Coming Soon)
 
 ```bash
 npx live-dev-inspector
@@ -51,7 +51,7 @@ npm run inspect
 
 ---
 
-## 🧪 Usage
+## usage
 
 ```bash
 npx live-dev-inspector
@@ -62,45 +62,45 @@ npx live-dev-inspector
 
 ---
 
-## 📅 Roadmap
+## roadmap
 
-* [ ] Build `.env` scanner ✅ **(Next Step)**
+* [ ] Build `.env` scanner 
 * [ ] Add open port detection
 * [ ] CORS inspection module
 * [ ] Web dashboard (Express + Socket.io)
 * [ ] Report builder (Markdown + HTML)
 * [ ] CLI polish with flags and interactive prompts
 * [ ] Plugin system (future)
-* [ ] VS Code extension? 🤔
+* [ ] VS Code extension? 
 
 ---
 
-## 🤝 Contributing
+## contributing
 
 Not open for PRs yet, but feel free to:
 
-* ⭐ Star the project
-* 📥 Open issues
-* 🧠 Suggest ideas
-* 🧪 Follow progress!
+* Star the project
+* Open issues
+* Suggest ideas
+* Follow progress!
 
 ---
 
-## 📝 License
+## license
 
 [MIT](LICENSE)
 
 ---
 
-## 📣 Stay Updated
+## stay updated
 
-Follow me on [GitHub](https://github.com/yourusername) or [LinkedIn](https://www.linkedin.com/in/your-link/) for updates!
+Follow me on [GitHub](https://github.com/Dem1241) or [LinkedIn](https://www.linkedin.com/in/ismail-bilkay-164175286/) for updates!
 
 
 
 ---
 
-### ✅ Instructions
+### instructions
 
 1. Replace all instances of `yourusername` with your actual GitHub username.
 2. Swap the LinkedIn URL at the bottom if you want.
