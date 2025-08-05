@@ -3,9 +3,9 @@
 > Inspect your local development environment for secrets, misconfigurations, and open ports — before you ship.
 
 ![Status](https://img.shields.io/badge/status-WIP-orange)
-![License](https://img.shields.io/github/license/yourusername/live-dev-inspector)
-![Issues](https://img.shields.io/github/issues/yourusername/live-dev-inspector)
-![Stars](https://img.shields.io/github/stars/yourusername/live-dev-inspector?style=social)
+![License](https://img.shields.io/github/license/Dem1241/live-dev-inspector)
+![Issues](https://img.shields.io/github/issues/Dem1241/live-dev-inspector)
+![Stars](https://img.shields.io/github/stars/Dem1241/live-dev-inspector?style=social)
 
 ---
 
@@ -108,7 +108,4 @@ Follow me on [GitHub](https://github.com/yourusername) or [LinkedIn](https://www
 4. Commit and push.
 
 ---
-
-Once it’s live, reply here and we’ll jump into **Step 3: Initial CLI Tool Setup + .env Scanner Module** 💻  
-Let’s build this beast — block by block.
 
